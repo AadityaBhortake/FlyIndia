@@ -1,4 +1,4 @@
-# Airline Reservation System
+# FlyIndia - Airline Reservation System
 
 A comprehensive Java-based Airline Reservation System that consists of a client-side application for users to book flights and a server-side application for administration and backend processing.
 
